@@ -1,0 +1,1 @@
+This API uses Google custom search API to return a url of a keyword inserted into the html file. It can take one or multiple words separated by commas. 
